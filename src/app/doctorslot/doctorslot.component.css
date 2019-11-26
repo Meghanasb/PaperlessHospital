@@ -23,6 +23,7 @@ a{
 a:hover {
   font-size: 18px;
   text-decoration: none;
+  width: fit-content;
   background-color:#17a2b8!important;
 }
 
